@@ -17,6 +17,8 @@ This unique tour offers an extraordinary glimpse into the Earth's interior, prov
 
 ## Images
 
-![Image of the entrance to Thrihnukagigur Volcano.](https://via.placeholder.com/600x400?text=Thrihnukagigur+Entrance+1)
-![Picture of the colorful magma chamber interior.](https://via.placeholder.com/600x400?text=Thrihnukagigur+Magma+Chamber+2)
-![Another view of the elevator descending into the volcano.](https://via.placeholder.com/600x400?text=Volcano+Descent+3) 
+![Thrihnukagigur Volcano - Image 1](../attraction_images/thrihnukagigur_volcano/thrihnukagigur_volcano_pexels_1634383f.jpg)
+
+![Thrihnukagigur Volcano - Image 2](../attraction_images/thrihnukagigur_volcano/thrihnukagigur_volcano_pexels_a6d37673.jpg)
+
+![Thrihnukagigur Volcano - Image 3](../attraction_images/thrihnukagigur_volcano/thrihnukagigur_volcano_pexels_e4b697af.jpg)

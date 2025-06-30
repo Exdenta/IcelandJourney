@@ -18,6 +18,8 @@ This is Iceland's deepest lake and a popular spot for wildlife, including seals 
 
 ## Images
 
-![Image of Jökulsárlón Glacier Lagoon with large icebergs.](https://via.placeholder.com/600x400?text=Jökulsárlón+Icebergs+1)
-![Picture of seals swimming in Jökulsárlón Glacier Lagoon.](https://via.placeholder.com/600x400?text=Jökulsárlón+Seals+2)
-![Scenic view of Diamond Beach with ice chunks.](https://via.placeholder.com/600x400?text=Diamond+Beach+3) 
+![Jokulsarlon Glacier Lagoon - Image 1](../attraction_images/jokulsarlon_glacier_lagoon/jokulsarlon_glacier_lagoon_pexels_9c8d2e82.jpg)
+
+![Jokulsarlon Glacier Lagoon - Image 2](../attraction_images/jokulsarlon_glacier_lagoon/jokulsarlon_glacier_lagoon_pexels_a137ab09.jpg)
+
+![Jokulsarlon Glacier Lagoon - Image 3](../attraction_images/jokulsarlon_glacier_lagoon/jokulsarlon_glacier_lagoon_pexels_ae61f09a.jpg)

@@ -21,6 +21,4 @@ Mývatn is also a significant birdwatching destination, particularly in summer, 
 
 ## Images
 
-![Image of Lake Mývatn with pseudocraters.](https://via.placeholder.com/600x400?text=Lake+Mývatn+1)
-![Picture of Dimmuborgir lava formations.](https://via.placeholder.com/600x400?text=Dimmuborgir+2)
-![Scenic view of Námaskarð geothermal area.](https://via.placeholder.com/600x400?text=Námaskarð+3) 
+![Lake Myvatn - Image 1](../attraction_images/lake_myvatn/lake_myvatn_pexels_9a6c2391.jpg)

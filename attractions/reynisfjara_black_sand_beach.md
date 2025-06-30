@@ -20,6 +20,8 @@ Offshore, the Reynisdrangar sea stacks rise majestically from the ocean. Accordi
 
 ## Images
 
-![Image of Reynisfjara Black Sand Beach with basalt columns.](https://via.placeholder.com/600x400?text=Reynisfjara+Beach+1)
-![Picture of the Reynisdrangar sea stacks.](https://via.placeholder.com/600x400?text=Reynisdrangar+2)
-![Another view of Reynisfjara showing the powerful waves.](https://via.placeholder.com/600x400?text=Reynisfjara+Waves+3) 
+![Reynisfjara Black Sand Beach - Image 1](../attraction_images/reynisfjara_black_sand_beach/reynisfjara_black_sand_beach_pexels_7251f102.jpg)
+
+![Reynisfjara Black Sand Beach - Image 2](../attraction_images/reynisfjara_black_sand_beach/reynisfjara_black_sand_beach_pexels_9c385f67.jpg)
+
+![Reynisfjara Black Sand Beach - Image 3](../attraction_images/reynisfjara_black_sand_beach/reynisfjara_black_sand_beach_pexels_d8245679.jpg)

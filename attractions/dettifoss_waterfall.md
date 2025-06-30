@@ -17,6 +17,8 @@ Visitors can view Dettifoss from both the east and west banks, each offering a d
 
 ## Images
 
-![Image of Dettifoss Waterfall's immense power.](https://via.placeholder.com/600x400?text=Dettifoss+Power+1)
-![Picture of Dettifoss Waterfall from the east bank.](https://via.placeholder.com/600x400?text=Dettifoss+East+2)
-![Scenic view of Dettifoss Waterfall from the west bank.](https://via.placeholder.com/600x400?text=Dettifoss+West+3) 
+![Dettifoss Waterfall - Image 1](../attraction_images/dettifoss_waterfall/dettifoss_waterfall_pexels_4f1cb8de.jpg)
+
+![Dettifoss Waterfall - Image 2](../attraction_images/dettifoss_waterfall/dettifoss_waterfall_pexels_ce083ef2.jpg)
+
+![Dettifoss Waterfall - Image 3](../attraction_images/dettifoss_waterfall/dettifoss_waterfall_pexels_e8385b75.jpg)

@@ -18,6 +18,8 @@ The unique setting allows visitors to move between several pools of varying temp
 
 ## Images
 
-![Image of Hvammsvik Hot Springs with people relaxing.](https://via.placeholder.com/600x400?text=Hvammsvik+Hot+Springs+1)
-![Scenic view of Hvammsvik Hot Springs at the fjord's edge.](https://via.placeholder.com/600x400?text=Hvammsvik+Fjord+2)
-![Another view of the natural pools at Hvammsvik.](https://via.placeholder.com/600x400?text=Hvammsvik+Pools+3) 
+![Hvammsvik Hot Springs - Image 1](../attraction_images/hvammsvik_hot_springs/hvammsvik_hot_springs_pexels_1f637ca2.jpg)
+
+![Hvammsvik Hot Springs - Image 2](../attraction_images/hvammsvik_hot_springs/hvammsvik_hot_springs_pexels_80a91862.jpg)
+
+![Hvammsvik Hot Springs - Image 3](../attraction_images/hvammsvik_hot_springs/hvammsvik_hot_springs_pexels_863240b4.jpg)

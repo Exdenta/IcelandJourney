@@ -18,6 +18,8 @@ The hike to Glymur is an adventure in itself, involving river crossings (often v
 
 ## Images
 
-![Image of Glymur Waterfall from a distance.](https://via.placeholder.com/600x400?text=Glymur+Waterfall+1)
-![Picture of the hike to Glymur, showing river crossing.](https://via.placeholder.com/600x400?text=Glymur+Hike+2)
-![Scenic view of the canyon around Glymur Waterfall.](https://via.placeholder.com/600x400?text=Glymur+Canyon+3) 
+![Glymur Waterfall - Image 1](../attraction_images/glymur_waterfall/glymur_waterfall_pexels_8db9b68a.jpg)
+
+![Glymur Waterfall - Image 2](../attraction_images/glymur_waterfall/glymur_waterfall_pexels_c91dcd4c.jpg)
+
+![Glymur Waterfall - Image 3](../attraction_images/glymur_waterfall/glymur_waterfall_pexels_d5079d70.jpg)

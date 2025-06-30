@@ -17,6 +17,8 @@ According to Norse mythology, the canyon was formed by the hoofprint of Odin's e
 
 ## Images
 
-![Image of Asbyrgi Canyon showing its horseshoe shape.](https://via.placeholder.com/600x400?text=Asbyrgi+Canyon+1)
-![Picture of the forest within Asbyrgi Canyon.](https://via.placeholder.com/600x400?text=Asbyrgi+Forest+2)
-![Scenic view from Eyjan, the island in Asbyrgi Canyon.](https://via.placeholder.com/600x400?text=Eyjan+View+3) 
+![Asbyrgi Canyon - Image 1](../attraction_images/asbyrgi_canyon/asbyrgi_canyon_pexels_8db9b68a.jpg)
+
+![Asbyrgi Canyon - Image 2](../attraction_images/asbyrgi_canyon/asbyrgi_canyon_pexels_c91dcd4c.jpg)
+
+![Asbyrgi Canyon - Image 3](../attraction_images/asbyrgi_canyon/asbyrgi_canyon_pexels_de1aa380.jpg)

@@ -18,6 +18,8 @@ Fontana is also famous for its geothermal bakery, where traditional Icelandic ry
 
 ## Images
 
-![Image of Laugarvatn Fontana pools.](https://via.placeholder.com/600x400?text=Laugarvatn+Fontana+Pools+1)
-![Picture of the geothermal bakery at Laugarvatn Fontana.](https://via.placeholder.com/600x400?text=Laugarvatn+Bakery+2)
-![Scenic view of Lake Laugarvatn from Fontana.](https://via.placeholder.com/600x400?text=Lake+Laugarvatn+View+3) 
+![Laugarvatn Fontana - Image 1](../attraction_images/laugarvatn_fontana/laugarvatn_fontana_pexels_22f882f3.jpg)
+
+![Laugarvatn Fontana - Image 2](../attraction_images/laugarvatn_fontana/laugarvatn_fontana_pexels_8db9b68a.jpg)
+
+![Laugarvatn Fontana - Image 3](../attraction_images/laugarvatn_fontana/laugarvatn_fontana_pexels_c91dcd4c.jpg)

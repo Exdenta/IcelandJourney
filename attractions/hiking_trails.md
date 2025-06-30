@@ -24,6 +24,4 @@ Hiking is a fantastic way to immerse yourself in Iceland's raw natural beauty an
 
 ## Images
 
-![Image of hikers on the Laugavegur Trail.](https://via.placeholder.com/600x400?text=Laugavegur+Trail+1)
-![Picture of the Fimmvörðuháls Trail with volcanic landscape.](https://via.placeholder.com/600x400?text=Fimmvörðuháls+Trail+2)
-![Scenic view of hikers near a waterfall on a trail.](https://via.placeholder.com/600x400?text=Hiking+Trail+3) 
+![Hiking Trails - Image 1](../attraction_images/hiking_trails/hiking_trails_pexels_31695287.jpg)

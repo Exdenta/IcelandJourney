@@ -17,6 +17,8 @@ The hike to the bathing area is relatively moderate and offers stunning views of
 
 ## Images
 
-![Image of people bathing in the hot spring river in Reykjadalur Valley.](https://via.placeholder.com/600x400?text=Reykjadalur+Valley+1)
-![Scenic view of steam rising from the Reykjadalur Valley.](https://via.placeholder.com/600x400?text=Reykjadalur+Valley+2)
-![Another view of the Reykjadalur hot spring river.](https://via.placeholder.com/600x400?text=Reykjadalur+Valley+3) 
+![Reykjadalur Valley - Image 1](../attraction_images/reykjadalur_valley/reykjadalur_valley_pexels_2f8c5a5c.jpg)
+
+![Reykjadalur Valley - Image 2](../attraction_images/reykjadalur_valley/reykjadalur_valley_pexels_3920cb59.jpg)
+
+![Reykjadalur Valley - Image 3](../attraction_images/reykjadalur_valley/reykjadalur_valley_pexels_a9e75434.jpg)

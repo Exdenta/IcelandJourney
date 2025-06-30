@@ -18,6 +18,6 @@ The volcano is surrounded by a vast and rugged lava field, creating a unique and
 
 ## Images
 
-![Image of Hekla Volcano from a distance.](https://via.placeholder.com/600x400?text=Hekla+Volcano+1)
-![Picture of the lava fields around Hekla.](https://via.placeholder.com/600x400?text=Hekla+Lava+Fields+2)
-![Scenic view of the landscape near Hekla Volcano.](https://via.placeholder.com/600x400?text=Hekla+Landscape+3) 
+![Hekla Volcano - Image 1](../attraction_images/hekla_volcano/hekla_volcano_pexels_8db9b68a.jpg)
+
+![Hekla Volcano - Image 2](../attraction_images/hekla_volcano/hekla_volcano_pexels_be53ad52.jpg)

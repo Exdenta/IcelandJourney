@@ -24,6 +24,8 @@ The city is a great base for exploring both urban attractions and the surroundin
 
 ## Images
 
-![Panoramic view of Reykjavik city.](https://via.placeholder.com/600x400?text=Reykjavik+City+1)
-![Image of Hallgrímskirkja Church.](https://via.placeholder.com/600x400?text=Hallgrímskirkja+2)
-![Picture of Harpa Concert Hall at night.](https://via.placeholder.com/600x400?text=Harpa+Night+3) 
+![Reykjavik - Image 1](../attraction_images/reykjavik/reykjavik_pexels_2255f9b4.jpg)
+
+![Reykjavik - Image 2](../attraction_images/reykjavik/reykjavik_pexels_ac341073.jpg)
+
+![Reykjavik - Image 3](../attraction_images/reykjavik/reykjavik_pexels_eda982f3.jpg)

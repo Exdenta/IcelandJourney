@@ -17,6 +17,8 @@ It is a significant part of the famous Golden Circle route and is impressive in 
 
 ## Images
 
-![Image of Gullfoss Waterfall with a double rainbow.](https://via.placeholder.com/600x400?text=Gullfoss+Rainbow+1)
-![Picture of Gullfoss Waterfall from an aerial view.](https://via.placeholder.com/600x400?text=Gullfoss+Aerial+2)
-![Scenic view of Gullfoss Waterfall in winter.](https://via.placeholder.com/600x400?text=Gullfoss+Winter+3) 
+![Gullfoss Waterfall - Image 1](../attraction_images/gullfoss_waterfall/gullfoss_waterfall_pexels_767f4c21.jpg)
+
+![Gullfoss Waterfall - Image 2](../attraction_images/gullfoss_waterfall/gullfoss_waterfall_pexels_96996979.jpg)
+
+![Gullfoss Waterfall - Image 3](../attraction_images/gullfoss_waterfall/gullfoss_waterfall_pexels_e81094a2.jpg)

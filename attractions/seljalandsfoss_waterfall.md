@@ -17,6 +17,8 @@ Be prepared to get a little wet from the spray, especially if you venture behind
 
 ## Images
 
-![Image of Seljalandsfoss Waterfall from the front.](https://via.placeholder.com/600x400?text=Seljalandsfoss+Front+1)
-![Picture of people walking behind Seljalandsfoss Waterfall.](https://via.placeholder.com/600x400?text=Seljalandsfoss+Behind+2)
-![Scenic view of Seljalandsfoss and surrounding green landscape.](https://via.placeholder.com/600x400?text=Seljalandsfoss+Landscape+3) 
+![Seljalandsfoss Waterfall - Image 1](../attraction_images/seljalandsfoss_waterfall/seljalandsfoss_waterfall_pexels_81136b54.jpg)
+
+![Seljalandsfoss Waterfall - Image 2](../attraction_images/seljalandsfoss_waterfall/seljalandsfoss_waterfall_pexels_aa248ec8.jpg)
+
+![Seljalandsfoss Waterfall - Image 3](../attraction_images/seljalandsfoss_waterfall/seljalandsfoss_waterfall_pexels_f5a65ee3.jpg)

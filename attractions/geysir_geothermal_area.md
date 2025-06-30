@@ -17,6 +17,8 @@ The area is characterized by steaming vents, bubbling mud pools, and the strong 
 
 ## Images
 
-![Image of Strokkur Geyser erupting high.](https://via.placeholder.com/600x400?text=Strokkur+Eruption+1)
-![Picture of the geothermal area with steam.](https://via.placeholder.com/600x400?text=Geothermal+Area+2)
-![Scenic view of the hot springs at Geysir.](https://via.placeholder.com/600x400?text=Hot+Springs+3) 
+![Geysir Geothermal Area - Image 1](../attraction_images/geysir_geothermal_area/geysir_geothermal_area_pexels_1c03fd61.jpg)
+
+![Geysir Geothermal Area - Image 2](../attraction_images/geysir_geothermal_area/geysir_geothermal_area_pexels_7cfededd.jpg)
+
+![Geysir Geothermal Area - Image 3](../attraction_images/geysir_geothermal_area/geysir_geothermal_area_pexels_863240b4.jpg)

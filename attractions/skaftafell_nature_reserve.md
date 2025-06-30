@@ -18,6 +18,8 @@ The reserve is a popular destination for hikers, with trails ranging from easy s
 
 ## Images
 
-![Image of Skaftafell Nature Reserve with a glacier in the background.](https://via.placeholder.com/600x400?text=Skaftafell+Glacier+1)
-![Picture of hikers on a trail in Skaftafell.](https://via.placeholder.com/600x400?text=Skaftafell+Hiking+2)
-![Scenic view of Svartifoss waterfall in Skaftafell.](https://via.placeholder.com/600x400?text=Svartifoss+Skaftafell+3) 
+![Skaftafell Nature Reserve - Image 1](../attraction_images/skaftafell_nature_reserve/skaftafell_nature_reserve_pexels_3877f56c.jpg)
+
+![Skaftafell Nature Reserve - Image 2](../attraction_images/skaftafell_nature_reserve/skaftafell_nature_reserve_pexels_443c46c1.jpg)
+
+![Skaftafell Nature Reserve - Image 3](../attraction_images/skaftafell_nature_reserve/skaftafell_nature_reserve_pexels_80337e03.jpg)

@@ -18,6 +18,8 @@ Sky Lagoon is known for its unique seven-step ritual, which includes various com
 
 ## Images
 
-![Image of Sky Lagoon infinity pool with ocean view.](https://via.placeholder.com/600x400?text=Sky+Lagoon+Pool+1)
-![Picture of the Sky Lagoon seven-step ritual area.](https://via.placeholder.com/600x400?text=Sky+Lagoon+Ritual+2)
-![Another view of Sky Lagoon at sunset.](https://via.placeholder.com/600x400?text=Sky+Lagoon+Sunset+3) 
+![Sky Lagoon - Image 1](../attraction_images/sky_lagoon/sky_lagoon_pexels_623494a8.jpg)
+
+![Sky Lagoon - Image 2](../attraction_images/sky_lagoon/sky_lagoon_pexels_7c74af15.jpg)
+
+![Sky Lagoon - Image 3](../attraction_images/sky_lagoon/sky_lagoon_pexels_8db9b68a.jpg)

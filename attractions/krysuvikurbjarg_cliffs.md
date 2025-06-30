@@ -18,6 +18,8 @@ Krysuvikurbjarg is particularly popular among birdwatchers during the spring and
 
 ## Images
 
-![Image of Krysuvikurbjarg Cliffs with dramatic ocean view.](https://via.placeholder.com/600x400?text=Krysuvikurbjarg+Cliffs+1)
-![Picture of seabirds nesting on Krysuvikurbjarg Cliffs.](https://via.placeholder.com/600x400?text=Krysuvikurbjarg+Birds+2)
-![Another view of the rugged coastline at Krysuvikurbjarg.](https://via.placeholder.com/600x400?text=Krysuvikurbjarg+Coast+3) 
+![Krysuvikurbjarg Cliffs - Image 1](../attraction_images/krysuvikurbjarg_cliffs/krysuvikurbjarg_cliffs_pexels_22f882f3.jpg)
+
+![Krysuvikurbjarg Cliffs - Image 2](../attraction_images/krysuvikurbjarg_cliffs/krysuvikurbjarg_cliffs_pexels_8db9b68a.jpg)
+
+![Krysuvikurbjarg Cliffs - Image 3](../attraction_images/krysuvikurbjarg_cliffs/krysuvikurbjarg_cliffs_pexels_c91dcd4c.jpg)

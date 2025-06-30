@@ -29,6 +29,4 @@ Iceland offers fantastic opportunities for wildlife viewing, from magnificent ma
 
 ## Images
 
-![Image of a humpback whale breaching.](https://via.placeholder.com/600x400?text=Whale+Watching+1)
-![Picture of a Puffin on a cliff.](https://via.placeholder.com/600x400?text=Puffin+2)
-![Image of an Arctic fox in its natural habitat.](https://via.placeholder.com/600x400?text=Arctic+Fox+3) 
+![Wildlife Viewing - Image 1](../attraction_images/wildlife_viewing/wildlife_viewing_pexels_b885349b.jpg)

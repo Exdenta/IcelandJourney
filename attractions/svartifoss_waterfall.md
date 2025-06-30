@@ -17,6 +17,8 @@ The unique geological formation has inspired Icelandic architects, including the
 
 ## Images
 
-![Image of Svartifoss Waterfall and its basalt columns.](https://via.placeholder.com/600x400?text=Svartifoss+Basalt+1)
-![Picture of Svartifoss Waterfall from a closer view.](https://via.placeholder.com/600x400?text=Svartifoss+Close+2)
-![Scenic view of the hiking trail to Svartifoss.](https://via.placeholder.com/600x400?text=Svartifoss+Trail+3) 
+![Svartifoss Waterfall - Image 1](../attraction_images/svartifoss_waterfall/svartifoss_waterfall_pexels_6aa8155f.jpg)
+
+![Svartifoss Waterfall - Image 2](../attraction_images/svartifoss_waterfall/svartifoss_waterfall_pexels_7b075720.jpg)
+
+![Svartifoss Waterfall - Image 3](../attraction_images/svartifoss_waterfall/svartifoss_waterfall_pexels_dd824056.jpg)

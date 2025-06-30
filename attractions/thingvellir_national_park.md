@@ -15,4 +15,12 @@ Historically, Þingvellir is the birthplace of the Alþing, Iceland's ancient pa
 *   Enjoy the scenic hiking trails and diverse flora.
 
 **Image Placeholder:**
-![Image of Þingvellir National Park, showing the rift valley and lake.](placeholder_thingvellir.jpg) 
+![Image of Þingvellir National Park, showing the rift valley and lake.](placeholder_thingvellir.jpg)
+
+## Images
+
+![Thingvellir National Park - Image 1](../attraction_images/thingvellir_national_park/thingvellir_national_park_pexels_3d460263.jpg)
+
+![Thingvellir National Park - Image 2](../attraction_images/thingvellir_national_park/thingvellir_national_park_pexels_90d2d7fa.jpg)
+
+![Thingvellir National Park - Image 3](../attraction_images/thingvellir_national_park/thingvellir_national_park_pexels_97d109c8.jpg)

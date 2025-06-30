@@ -20,6 +20,8 @@ The park is dominated by Vatnajökull, Europe's second-largest ice cap, which is
 
 ## Images
 
-![Image of Vatnajökull Glacier.](https://via.placeholder.com/600x400?text=Vatnajokull+Glacier+1)
-![Picture of an ice cave in Vatnajökull National Park.](https://via.placeholder.com/600x400?text=Vatnajokull+Ice+Cave+2)
-![Scenic view of the diverse landscape in Vatnajökull National Park.](https://via.placeholder.com/600x400?text=Vatnajokull+Landscape+3) 
+![Vatnajokull National Park - Image 1](../attraction_images/vatnajokull_national_park/vatnajokull_national_park_pexels_32076e9d.jpg)
+
+![Vatnajokull National Park - Image 2](../attraction_images/vatnajokull_national_park/vatnajokull_national_park_pexels_3877f56c.jpg)
+
+![Vatnajokull National Park - Image 3](../attraction_images/vatnajokull_national_park/vatnajokull_national_park_pexels_b101d6d2.jpg)

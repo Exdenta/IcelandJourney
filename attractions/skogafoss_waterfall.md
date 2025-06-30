@@ -18,6 +18,8 @@ There's a path and staircase leading up to the top of the waterfall, offering st
 
 ## Images
 
-![Image of Skógafoss Waterfall with a powerful cascade.](https://via.placeholder.com/600x400?text=Skogafoss+Cascade+1)
-![Picture of Skógafoss Waterfall with a rainbow.](https://via.placeholder.com/600x400?text=Skogafoss+Rainbow+2)
-![Scenic view from the top of Skógafoss Waterfall.](https://via.placeholder.com/600x400?text=Skogafoss+Top+View+3) 
+![Skogafoss Waterfall - Image 1](../attraction_images/skogafoss_waterfall/skogafoss_waterfall_pexels_3eba08cf.jpg)
+
+![Skogafoss Waterfall - Image 2](../attraction_images/skogafoss_waterfall/skogafoss_waterfall_pexels_86dc1224.jpg)
+
+![Skogafoss Waterfall - Image 3](../attraction_images/skogafoss_waterfall/skogafoss_waterfall_pexels_947b0555.jpg)

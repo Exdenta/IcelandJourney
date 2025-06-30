@@ -19,6 +19,8 @@ The warm, inviting waters offer a perfect place to relax and rejuvenate amidst a
 
 ## Images
 
-![Image of the milky blue waters of the Blue Lagoon.](https://via.placeholder.com/600x400?text=Blue+Lagoon+Water+1)
-![Picture of people relaxing in the Blue Lagoon.](https://via.placeholder.com/600x400?text=Blue+Lagoon+Relax+2)
-![Scenic view of the Blue Lagoon surrounded by lava fields.](https://via.placeholder.com/600x400?text=Blue+Lagoon+Landscape+3) 
+![Blue Lagoon - Image 1](../attraction_images/blue_lagoon/blue_lagoon_pexels_16713cb2.jpg)
+
+![Blue Lagoon - Image 2](../attraction_images/blue_lagoon/blue_lagoon_pexels_9c8d2e82.jpg)
+
+![Blue Lagoon - Image 3](../attraction_images/blue_lagoon/blue_lagoon_pexels_a137ab09.jpg)

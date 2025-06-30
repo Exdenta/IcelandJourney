@@ -17,6 +17,8 @@ The Westfjords offer a rugged and serene landscape, and Dynjandi is a true jewel
 
 ## Images
 
-![Image of Dynjandi Waterfall from the base.](https://via.placeholder.com/600x400?text=Dynjandi+Base+1)
-![Picture of the multi-tiered cascades of Dynjandi.](https://via.placeholder.com/600x400?text=Dynjandi+Cascades+2)
-![Scenic view of the Westfjords from Dynjandi.](https://via.placeholder.com/600x400?text=Dynjandi+Westfjords+3) 
+![Dynjandi Waterfall - Image 1](../attraction_images/dynjandi_waterfall/dynjandi_waterfall_pexels_17458f5c.jpg)
+
+![Dynjandi Waterfall - Image 2](../attraction_images/dynjandi_waterfall/dynjandi_waterfall_pexels_6a38a1c5.jpg)
+
+![Dynjandi Waterfall - Image 3](../attraction_images/dynjandi_waterfall/dynjandi_waterfall_pexels_fb0fddc3.jpg)

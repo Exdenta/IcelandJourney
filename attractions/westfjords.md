@@ -20,6 +20,8 @@ The region is known for its incredible birdlife, particularly at the Látrabjarg
 
 ## Images
 
-![Image of a dramatic fjord landscape in the Westfjords.](https://via.placeholder.com/600x400?text=Westfjords+Fjord+1)
-![Picture of Látrabjarg bird cliffs with nesting birds.](https://via.placeholder.com/600x400?text=Látrabjarg+Cliffs+2)
-![Scenic view of Dynjandi waterfall.](https://via.placeholder.com/600x400?text=Dynjandi+Waterfall+3) 
+![Westfjords - Image 1](../attraction_images/westfjords/westfjords_pexels_379ff445.jpg)
+
+![Westfjords - Image 2](../attraction_images/westfjords/westfjords_pexels_6fe44cea.jpg)
+
+![Westfjords - Image 3](../attraction_images/westfjords/westfjords_pexels_7a58a311.jpg)

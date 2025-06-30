@@ -19,6 +19,8 @@ The canyon walls are covered in vibrant green moss and grass, and the clear wate
 
 ## Images
 
-![Image of Fjaðrárgljúfur Canyon showing its twisting shape.](https://via.placeholder.com/600x400?text=Fjaðrárgljúfur+Canyon+1)
-![Picture of the Fjaðrárgljúfur Canyon with green moss.](https://via.placeholder.com/600x400?text=Fjaðrárgljúfur+Canyon+2)
-![Another view of Fjaðrárgljúfur Canyon with the river.](https://via.placeholder.com/600x400?text=Fjaðrárgljúfur+Canyon+3) 
+![Fjadrargljufur Canyon - Image 1](../attraction_images/fjadrargljufur_canyon/fjadrargljufur_canyon_pexels_2d8078ec.jpg)
+
+![Fjadrargljufur Canyon - Image 2](../attraction_images/fjadrargljufur_canyon/fjadrargljufur_canyon_pexels_b4d205b0.jpg)
+
+![Fjadrargljufur Canyon - Image 3](../attraction_images/fjadrargljufur_canyon/fjadrargljufur_canyon_pexels_bb877db7.jpg)
